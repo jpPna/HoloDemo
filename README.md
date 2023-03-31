@@ -1,5 +1,5 @@
 # HoloDemo
-Mixed Reality room configurator
+## Mixed Reality room configurator
 
 
    This scene showcases my room configurator. It consists of a palm-up scrollable menu where each button spawns the selected item. The spawned objects have the "Tap to Place" component and can be manipulated to move/rotate/scale. The menu displayed can be changed between three of the available rooms (livingroom, kitchen and bedroom). Also, the menu counts with a button to toggle the "Follow me" behavior and another button that deletes all the objects spawned in the scene.	
