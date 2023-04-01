@@ -15,15 +15,15 @@
 ### Download repo and run
 
    1. Once downloaded the repo, for Unity to resolve the packages properly, run the [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) and import the features to the Unity project:
-   - Mixed Reality toolkit:
-      - Mixed Reality toolkit examples
-      - Mixed Reality toolkit extensions
-      - Mixed Reality toolkit foundation
-      - Mixed Reality toolkit satandard assets
-      - Mixed Reality toolkit test utilities
-      - Mixed Reality toolkit tools
-   - Platform support
-      - Mixed Reality OpenXR plugin
+      - Mixed Reality toolkit:
+         - Mixed Reality toolkit examples
+         - Mixed Reality toolkit extensions
+         - Mixed Reality toolkit foundation
+         - Mixed Reality toolkit satandard assets
+         - Mixed Reality toolkit test utilities
+         - Mixed Reality toolkit tools
+      - Platform support
+         - Mixed Reality OpenXR plugin
      
   2. Restart Unity and, in the _MRTK configurator_ window, double click _Unity OpenXR plugin_.
 
