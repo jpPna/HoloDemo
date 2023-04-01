@@ -27,15 +27,15 @@
      
   2. Restart Unity and, in the _MRTK configurator_ window, double click _Unity OpenXR plugin_.
 
-  3. Go to File -> Build Settings, choose Universal Windows Platform, set _Architecture_ to **ARM** and click _Switch Platform_.
+  3. Go to File :arrow_right: Build Settings, choose Universal Windows Platform, set _Architecture_ to **ARM** and click _Switch Platform_.
 
-  4. Fix conflicts Edit -> Project Settings -> XR Plug-in Management -> Project Validation, select _Fix All_ settings conflicts.
+  4. Fix conflicts Edit :arrow_right: Project Settings :arrow_right: XR Plug-in Management :arrow_right: Project Validation, select _Fix All_ settings conflicts.
 
   5. Still in the XR Plug-in Management tab, change the _depth sumission mode_ to **depth 16 Bit** and add to the _interaction profiles_ the **Microsoft hand interaction profile**. 
 
-  6. Close editor. Mixed Reality -> Project -> **Apply recommended project settings for HoloLens 2**.
+  6. Close editor. Mixed Reality :arrow_right: Project :arrow_right: **Apply recommended project settings for HoloLens 2**.
 
-  7. (Optional) Project Settings -> Player -> Other Settings, uncheck **Optimize Mesh Data** (to reduce build time). 
+  7. (Optional) Project Settings :arrow_right: Player :arrow_right: Other Settings, uncheck **Optimize Mesh Data** (to reduce build time). 
      
 
 
