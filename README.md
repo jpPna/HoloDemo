@@ -6,6 +6,6 @@
 
    Try my other two scenes: 
    * "demo" displays the robot Kyle with a sci-fi gun that fires furniture while spinning around.
-   * in "firstManipulator", the objects can be repositioned by using the MRTK object manippulator, the component "GridObjectCollection" is applied to smaller verisions of the robot Kyle, and a sci-fi gun which visibility can be enabled/disabled with either the normal or the big button.	   
+   * in "firstManipulator", the objects can be repositioned by using the MRTK object manipulator, the component "GridObjectCollection" is applied to smaller verisions of the robot Kyle, and a sci-fi gun which visibility can be enabled/disabled with either the normal or the big button.	   
 
    Enjoy :)	
