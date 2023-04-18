@@ -35,6 +35,8 @@ Demo3:
    
 ![](videos/demo03.gif)
 
+<sub>(pssst... the images are actually GIF, if they are not playing, click on them :eyes:)</sub>
+
 
 ##
 ### Setup
