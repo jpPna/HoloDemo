@@ -19,17 +19,20 @@ Demo1:
    * the menu is shown when the `palm is visible` (it disappears when the hand is put away).
    * an object is `spawned` when pressing its corresponding button and placed with the `Tap to Place` component.
    * the object is manipulated `move/rotate/scale`.
+   
 ![](videos/demo01.gif)
 
 Demo2: 
    * `change the room` with the previous/next buttons.
    * the menus are `scrollable`.
+   
 ![](videos/demo02.gif)
 
 Demo3: 
    * one can create and customize the configuration of the house interior objects.
    * pressing the `Follow me` button toggles the menu to stay visible and at reach distance.
    * the `Delete all` button destroy all the furtniture Game Objects.
+   
 ![](videos/demo03.gif)
 
 
