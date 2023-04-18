@@ -13,7 +13,7 @@
 
 
 ##
-### Demo
+### Demos
 
 Demo1: 
    * the menu is shown when the `palm is visible` (it disappears when the hand is put away).
