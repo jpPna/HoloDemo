@@ -35,8 +35,8 @@ Demo3:
    
 ![](videos/demo03.gif)
 
-<sub>(pssst... the images are actually GIF, if they are not playing, click on them :eyes:)</sub>
-or go to the YouTube playlist:
+<sub>(pssst... the images are actually GIF, if they are not playing, click on them :eyes:)</sub> <br>
+or go to the YouTube playlist: <br>
 (https://www.youtube.com/playlist?list=PLAM5gVPZMtq_4Ogx6wm71eEORe5u08gh1)
 
 
