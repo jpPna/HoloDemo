@@ -22,12 +22,14 @@ Demo1:
    
 ![](videos/demo01.gif)
 
+<br>
 Demo2: 
    * `change the room` with the previous/next buttons.
    * the menus are `scrollable`.
    
 ![](videos/demo02.gif)
 
+<br>
 Demo3: 
    * one can create and customize the configuration of the house interior objects.
    * pressing the `Follow me` button toggles the menu to stay visible and at reach distance.
@@ -35,8 +37,8 @@ Demo3:
    
 ![](videos/demo03.gif)
 
-<sub>(pssst... the images are actually GIF, if they are not playing, click on them :eyes:)</sub> <br>
-or go to the YouTube playlist: <br>
+<sub>pssst... the images are actually GIF, if they are not playing, click on them :eyes:   or</sub> <br>
+go to the YouTube playlist: <br>
 (https://www.youtube.com/playlist?list=PLAM5gVPZMtq_4Ogx6wm71eEORe5u08gh1)
 
 
